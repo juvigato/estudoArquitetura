@@ -32,6 +32,7 @@ DerivedData/
 
 ## MacOS
 .DS_Store
+.hash
 
 ## Playgrounds
 timeline.xctimeline
